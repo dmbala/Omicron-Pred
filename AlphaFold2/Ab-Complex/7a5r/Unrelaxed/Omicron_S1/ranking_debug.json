@@ -1,0 +1,16 @@
+{
+    "iptm+ptm": {
+        "model_1_multimer": 0.31082086500461037,
+        "model_2_multimer": 0.3221615787351426,
+        "model_3_multimer": 0.32838654535817013,
+        "model_4_multimer": 0.3008747256756368,
+        "model_5_multimer": 0.30338015235440474
+    },
+    "order": [
+        "model_3_multimer",
+        "model_2_multimer",
+        "model_1_multimer",
+        "model_5_multimer",
+        "model_4_multimer"
+    ]
+}
